@@ -146,7 +146,7 @@ This pipeline includes:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Install dependencies:
 
